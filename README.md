@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Josh
-- [website](josh0810.github.io)
 
 
 <!---
